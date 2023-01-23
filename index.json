@@ -3517,6 +3517,21 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/osd/gps.txt",
+      "hash": "55b13ffcb20291c57261de6843be4a89e7b3e8864efa46c85df2b70a0b500588",
+      "title": "Jeremy's GPS OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Stromsoe / nofear_fpv",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/no-gps.txt",
       "hash": "22b4e37cd17300bbab26ebe283811fc4e3c22cd0fe6825df5e52d6f16cd1d3bf",
       "title": "No GPS OSD",
