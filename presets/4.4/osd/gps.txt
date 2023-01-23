@@ -4,7 +4,7 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: OSD
 #$ AUTHOR: Stromsoe / nofear_fpv
-#$ DESCRIPTION: This is a preset for HD OSD that has no GPS
+#$ DESCRIPTION: This is a preset for HD OSD for a build that has a GPS
 #$ INCLUDE: presets/4.4/rates/defaults.txt
 
 set osd_units = METRIC

@@ -3518,7 +3518,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/gps.txt",
-      "hash": "55b13ffcb20291c57261de6843be4a89e7b3e8864efa46c85df2b70a0b500588",
+      "hash": "3fe4969f4b93d018046854a346e09af65ed6a5a8f885e277337cc63cabd3e8d9",
       "title": "Jeremy's GPS OSD",
       "firmware_version": [
         "4.4"
