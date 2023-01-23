@@ -865,21 +865,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/no-gps.txt",
-      "hash": "710a7906801c4bc6f3e278f7793a1a1d9e8724be365de3d848b93846d6fcbc2b",
-      "title": "No GPS OSD",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "Stromsoe / nofear_fpv",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
       "hash": "1314352dd602fa60a9d8737439b20b91ffdd2ab0a92a378e66a7367f15f7f758",
       "title": "ExpressLRS Passthrough Betaflight Settings",
@@ -3533,7 +3518,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/no-gps.txt",
-      "hash": "710a7906801c4bc6f3e278f7793a1a1d9e8724be365de3d848b93846d6fcbc2b",
+      "hash": "2d5dabb967bc6c15dbeaa53fe09bb5eed5951efe685cbdf0a6afffd7eafe7140",
       "title": "No GPS OSD",
       "firmware_version": [
         "4.4"

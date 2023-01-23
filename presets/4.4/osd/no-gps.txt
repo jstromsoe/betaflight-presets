@@ -128,22 +128,5 @@ set osd_canvas_width = 53
 set osd_canvas_height = 20
 set osd_craftname_msgs = OFF
 
-#$ OPTION BEGIN (CHECKED): Region 1 name
-    <cli command n + 1>
-    <cli command n + 2>
-    ...
-    <cli command m>
-#$ OPTION END
 
-#$ OPTION_GROUP BEGIN: This group name
-    #$ OPTION BEGIN (UNCHECKED): Region 2 name
-        <cli command m + 1>
-        <cli command m + 2>
-    #$ OPTION END
-    #$ OPTION BEGIN (UNCHECKED): Region 3 name
-        <cli command j + 1>
-        <cli command j + 2>
-        <cli command j + 3>
-    #$ OPTION END
-#$ OPTION_GROUP END
 
