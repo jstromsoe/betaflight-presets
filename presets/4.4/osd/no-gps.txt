@@ -5,10 +5,6 @@
 #$ KEYWORDS: OSD
 #$ AUTHOR: Stromsoe / nofear_fpv
 #$ DESCRIPTION: This is a preset for HD OSD that has no GPS
-#$ DESCRIPTION: Description pagagraph2  (as many description paragraphs as needed)
-#$ DISCLAIMER: Text of disclaimer (mandatory for VTx Presets)
-#$ WARNING: Text of warning
-#$ DISCUSSION: https://github.com/jstromsoe/betaflight-presets/issues/1
 #$ INCLUDE: presets/4.4/rates/defaults.txt
 
 set osd_units = METRIC

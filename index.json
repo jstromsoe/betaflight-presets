@@ -3518,7 +3518,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/no-gps.txt",
-      "hash": "2d5dabb967bc6c15dbeaa53fe09bb5eed5951efe685cbdf0a6afffd7eafe7140",
+      "hash": "22b4e37cd17300bbab26ebe283811fc4e3c22cd0fe6825df5e52d6f16cd1d3bf",
       "title": "No GPS OSD",
       "firmware_version": [
         "4.4"
